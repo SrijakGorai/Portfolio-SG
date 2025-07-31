@@ -20,7 +20,7 @@ const Footer = () => {
       <Stack direction="row" spacing={2} justifyContent="center" mb={2}>
         <IconButton
           component={Link}
-          href="mailto:your.email@example.com"
+          href="mailto:srijakgoraiofficial20@gmail.com"
           color="inherit"
         >
           <MdEmail size={24} />
