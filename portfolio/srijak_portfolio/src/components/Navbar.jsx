@@ -15,7 +15,7 @@ const Navbar = ({ toggleTheme, isDark }) => {
     <AppBar position="sticky" color="default">
       <Toolbar>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          SRUJAK GORAI
+          SRIJAK GORAI
         </Typography>
         <Box>
           <Button color="inherit" href="#about">About</Button>
