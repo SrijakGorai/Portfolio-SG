@@ -18,7 +18,7 @@ const educationData = [
   {
     degree: "Secondary (10th)",
     institution: "Asansol RamaKrishna Mission High School",
-    year: "20111 - 2020",
+    year: "2011 - 2020",
     details: "Percentage: 93%"
   }
 ];
